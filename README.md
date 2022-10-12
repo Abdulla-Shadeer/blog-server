@@ -5,7 +5,7 @@ Copyright - 2022 Abdullah Shadeer
 
 
 This is the server side program of the mern stack based blogging system I've created 
-(available here: https://github.com/Abdulla-Shadeer/blog-demo).
+(available here: https://github.com/Abdulla-Shadeer/blog-client).
 
 Please add the below mentioned environment variables to the .env 
 file in order to start the express server.</br>
