@@ -1,5 +1,5 @@
 
-# blog-server.
+# blog-server - NodeJS
 server side for MERN stack based blogging system <br/>
 Copyright - 2022 Abdullah Shadeer
 
